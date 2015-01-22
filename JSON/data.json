@@ -1,0 +1,3302 @@
+{
+  "states": [
+    {
+      "id": 6,
+      "name": "Abia",
+      "lga": [
+        {
+          "id": 102,
+          "name": "Aba North"
+        },
+        {
+          "id": 103,
+          "name": "Aba South"
+        },
+        {
+          "id": 104,
+          "name": "Arochukwu"
+        },
+        {
+          "id": 105,
+          "name": "Bende"
+        },
+        {
+          "id": 107,
+          "name": "Isiala-Ngwa North"
+        },
+        {
+          "id": 108,
+          "name": "Isiala-Ngwa South"
+        },
+        {
+          "id": 109,
+          "name": "Isuikwato"
+        },
+        {
+          "id": 106,
+          "name": "kwuano"
+        },
+        {
+          "id": 113,
+          "name": "Ngwa"
+        },
+        {
+          "id": 110,
+          "name": "Obi Nwa"
+        },
+        {
+          "id": 111,
+          "name": "Ohafia"
+        },
+        {
+          "id": 112,
+          "name": "Osisioma"
+        },
+        {
+          "id": 114,
+          "name": "Ugwunagbo"
+        },
+        {
+          "id": 115,
+          "name": "Ukwa East"
+        },
+        {
+          "id": 116,
+          "name": "Ukwa West"
+        },
+        {
+          "id": 117,
+          "name": "Umuahia North"
+        },
+        {
+          "id": 118,
+          "name": "Umuahia South"
+        },
+        {
+          "id": 119,
+          "name": "Umu-Neochi"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Adamawa",
+      "lga": [
+        {
+          "id": 120,
+          "name": "Demsa"
+        },
+        {
+          "id": 121,
+          "name": "Fufore"
+        },
+        {
+          "id": 122,
+          "name": "Ganaye"
+        },
+        {
+          "id": 123,
+          "name": "Gireri"
+        },
+        {
+          "id": 124,
+          "name": "Gombi"
+        },
+        {
+          "id": 125,
+          "name": "Guyuk"
+        },
+        {
+          "id": 126,
+          "name": "Hong"
+        },
+        {
+          "id": 127,
+          "name": "Jada"
+        },
+        {
+          "id": 128,
+          "name": "Lamurde"
+        },
+        {
+          "id": 129,
+          "name": "Madagali"
+        },
+        {
+          "id": 130,
+          "name": "Maiha"
+        },
+        {
+          "id": 131,
+          "name": "Mayo-Belwa"
+        },
+        {
+          "id": 132,
+          "name": "Michika"
+        },
+        {
+          "id": 133,
+          "name": "Mubi North"
+        },
+        {
+          "id": 134,
+          "name": "Mubi South"
+        },
+        {
+          "id": 135,
+          "name": "Numan"
+        },
+        {
+          "id": 136,
+          "name": "Shelleng"
+        },
+        {
+          "id": 137,
+          "name": "Song"
+        },
+        {
+          "id": 138,
+          "name": "Toungo"
+        },
+        {
+          "id": 139,
+          "name": "Yola North"
+        },
+        {
+          "id": 140,
+          "name": "Yola South"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Akwa Ibom",
+      "lga": [
+        {
+          "id": 141,
+          "name": "Abak"
+        },
+        {
+          "id": 142,
+          "name": "Eastern Obolo"
+        },
+        {
+          "id": 143,
+          "name": "Eket"
+        },
+        {
+          "id": 144,
+          "name": "Esit Eket"
+        },
+        {
+          "id": 145,
+          "name": "Essien Udim"
+        },
+        {
+          "id": 146,
+          "name": "Etim Ekpo"
+        },
+        {
+          "id": 147,
+          "name": "Etinan"
+        },
+        {
+          "id": 148,
+          "name": "Ibeno"
+        },
+        {
+          "id": 149,
+          "name": "Ibesikpo Asutan"
+        },
+        {
+          "id": 150,
+          "name": "Ibiono Ibom"
+        },
+        {
+          "id": 151,
+          "name": "Ika"
+        },
+        {
+          "id": 152,
+          "name": "Ikono"
+        },
+        {
+          "id": 153,
+          "name": "Ikot Abasi"
+        },
+        {
+          "id": 154,
+          "name": "Ikot Ekpene"
+        },
+        {
+          "id": 155,
+          "name": "Ini"
+        },
+        {
+          "id": 156,
+          "name": "Itu"
+        },
+        {
+          "id": 157,
+          "name": "Mbo"
+        },
+        {
+          "id": 158,
+          "name": "Mkpat Enin"
+        },
+        {
+          "id": 159,
+          "name": "Nsit Atai"
+        },
+        {
+          "id": 160,
+          "name": "Nsit Ibom"
+        },
+        {
+          "id": 161,
+          "name": "Nsit Ubium"
+        },
+        {
+          "id": 162,
+          "name": "Obot Akara"
+        },
+        {
+          "id": 163,
+          "name": "Okobo"
+        },
+        {
+          "id": 164,
+          "name": "Onna"
+        },
+        {
+          "id": 165,
+          "name": "Oron"
+        },
+        {
+          "id": 166,
+          "name": "Oruk Anam"
+        },
+        {
+          "id": 167,
+          "name": "Udung Uko"
+        },
+        {
+          "id": 168,
+          "name": "Ukanafun"
+        },
+        {
+          "id": 169,
+          "name": "Uruan"
+        },
+        {
+          "id": 170,
+          "name": "Urue-Offong/Oruko"
+        },
+        {
+          "id": 171,
+          "name": "Uyo"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Anambra",
+      "lga": [
+        {
+          "id": 172,
+          "name": "Aguata"
+        },
+        {
+          "id": 173,
+          "name": "Anambra East"
+        },
+        {
+          "id": 174,
+          "name": "Anambra West"
+        },
+        {
+          "id": 175,
+          "name": "Anaocha"
+        },
+        {
+          "id": 176,
+          "name": "Awka North"
+        },
+        {
+          "id": 177,
+          "name": "Awka South"
+        },
+        {
+          "id": 178,
+          "name": "Ayamelum"
+        },
+        {
+          "id": 179,
+          "name": "Dunukofia"
+        },
+        {
+          "id": 180,
+          "name": "Ekwusigo"
+        },
+        {
+          "id": 181,
+          "name": "Idemili North"
+        },
+        {
+          "id": 182,
+          "name": "Idemili south"
+        },
+        {
+          "id": 183,
+          "name": "Ihiala"
+        },
+        {
+          "id": 184,
+          "name": "Njikoka"
+        },
+        {
+          "id": 185,
+          "name": "Nnewi North"
+        },
+        {
+          "id": 186,
+          "name": "Nnewi South"
+        },
+        {
+          "id": 188,
+          "name": "Ogbaru"
+        },
+        {
+          "id": 189,
+          "name": "Onitsha North"
+        },
+        {
+          "id": 190,
+          "name": "Onitsha South"
+        },
+        {
+          "id": 191,
+          "name": "Orumba North"
+        },
+        {
+          "id": 192,
+          "name": "Orumba South"
+        },
+        {
+          "id": 193,
+          "name": "Oyi"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Bauchi",
+      "lga": [
+        {
+          "id": 194,
+          "name": "Alkaleri"
+        },
+        {
+          "id": 195,
+          "name": "Bauchi"
+        },
+        {
+          "id": 196,
+          "name": "Bogoro"
+        },
+        {
+          "id": 197,
+          "name": "Damban"
+        },
+        {
+          "id": 198,
+          "name": "Darazo"
+        },
+        {
+          "id": 199,
+          "name": "Dass"
+        },
+        {
+          "id": 200,
+          "name": "Ganjuwa"
+        },
+        {
+          "id": 201,
+          "name": "Giade"
+        },
+        {
+          "id": 202,
+          "name": "Itas/Gadau"
+        },
+        {
+          "id": 203,
+          "name": "Jama'are"
+        },
+        {
+          "id": 204,
+          "name": "Katagum"
+        },
+        {
+          "id": 205,
+          "name": "Kirfi"
+        },
+        {
+          "id": 206,
+          "name": "Misau"
+        },
+        {
+          "id": 207,
+          "name": "Ningi"
+        },
+        {
+          "id": 208,
+          "name": "Shira"
+        },
+        {
+          "id": 209,
+          "name": "Tafawa-Balewa"
+        },
+        {
+          "id": 210,
+          "name": "Toro"
+        },
+        {
+          "id": 211,
+          "name": "Warji"
+        },
+        {
+          "id": 212,
+          "name": "Zaki"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Bayelsa",
+      "lga": [
+        {
+          "id": 213,
+          "name": "Brass"
+        },
+        {
+          "id": 214,
+          "name": "Ekeremor"
+        },
+        {
+          "id": 215,
+          "name": "Kolokuma/Opokuma"
+        },
+        {
+          "id": 216,
+          "name": "Nembe"
+        },
+        {
+          "id": 217,
+          "name": "Ogbia"
+        },
+        {
+          "id": 218,
+          "name": "Sagbama"
+        },
+        {
+          "id": 219,
+          "name": "Southern Jaw"
+        },
+        {
+          "id": 220,
+          "name": "Yenegoa"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Benue",
+      "lga": [
+        {
+          "id": 221,
+          "name": "Ado"
+        },
+        {
+          "id": 222,
+          "name": "Agatu"
+        },
+        {
+          "id": 223,
+          "name": "Apa"
+        },
+        {
+          "id": 224,
+          "name": "Buruku"
+        },
+        {
+          "id": 225,
+          "name": "Gboko"
+        },
+        {
+          "id": 226,
+          "name": "Guma"
+        },
+        {
+          "id": 227,
+          "name": "Gwer East"
+        },
+        {
+          "id": 228,
+          "name": "Gwer West"
+        },
+        {
+          "id": 229,
+          "name": "Katsina-Ala"
+        },
+        {
+          "id": 230,
+          "name": "Konshisha"
+        },
+        {
+          "id": 231,
+          "name": "Kwande"
+        },
+        {
+          "id": 232,
+          "name": "Logo"
+        },
+        {
+          "id": 233,
+          "name": "Makurdi"
+        },
+        {
+          "id": 234,
+          "name": "Obi"
+        },
+        {
+          "id": 235,
+          "name": "Ogbadibo"
+        },
+        {
+          "id": 238,
+          "name": "Ohimini"
+        },
+        {
+          "id": 236,
+          "name": "Oju"
+        },
+        {
+          "id": 237,
+          "name": "Okpokwu"
+        },
+        {
+          "id": 239,
+          "name": "Oturkpo"
+        },
+        {
+          "id": 240,
+          "name": "Tarka"
+        },
+        {
+          "id": 241,
+          "name": "Ukum"
+        },
+        {
+          "id": 242,
+          "name": "Ushongo"
+        },
+        {
+          "id": 243,
+          "name": "Vandeikya"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bornu",
+      "lga": [
+        {
+          "id": 244,
+          "name": "Abadam"
+        },
+        {
+          "id": 245,
+          "name": "Askira/Uba"
+        },
+        {
+          "id": 246,
+          "name": "Bama"
+        },
+        {
+          "id": 247,
+          "name": "Bayo"
+        },
+        {
+          "id": 248,
+          "name": "Biu"
+        },
+        {
+          "id": 249,
+          "name": "Chibok"
+        },
+        {
+          "id": 250,
+          "name": "Damboa"
+        },
+        {
+          "id": 251,
+          "name": "Dikwa"
+        },
+        {
+          "id": 252,
+          "name": "Gubio"
+        },
+        {
+          "id": 253,
+          "name": "Guzamala"
+        },
+        {
+          "id": 254,
+          "name": "Gwoza"
+        },
+        {
+          "id": 255,
+          "name": "Hawul"
+        },
+        {
+          "id": 256,
+          "name": "Jere"
+        },
+        {
+          "id": 257,
+          "name": "Kaga"
+        },
+        {
+          "id": 258,
+          "name": "Kala/Balge"
+        },
+        {
+          "id": 259,
+          "name": "Konduga"
+        },
+        {
+          "id": 260,
+          "name": "Kukawa"
+        },
+        {
+          "id": 261,
+          "name": "Kwaya Kusar"
+        },
+        {
+          "id": 262,
+          "name": "Mafa"
+        },
+        {
+          "id": 263,
+          "name": "Magumeri"
+        },
+        {
+          "id": 264,
+          "name": "Maiduguri"
+        },
+        {
+          "id": 265,
+          "name": "Marte"
+        },
+        {
+          "id": 266,
+          "name": "Mobbar"
+        },
+        {
+          "id": 267,
+          "name": "Monguno"
+        },
+        {
+          "id": 268,
+          "name": "Ngala"
+        },
+        {
+          "id": 269,
+          "name": "Nganzai"
+        },
+        {
+          "id": 270,
+          "name": "Shani"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Cross River",
+      "lga": [
+        {
+          "id": 275,
+          "name": "Abi"
+        },
+        {
+          "id": 273,
+          "name": "Akamkpa"
+        },
+        {
+          "id": 271,
+          "name": "Akpabuyo"
+        },
+        {
+          "id": 287,
+          "name": "Bakassi"
+        },
+        {
+          "id": 286,
+          "name": "Bekwara"
+        },
+        {
+          "id": 274,
+          "name": "Biase"
+        },
+        {
+          "id": 279,
+          "name": "Boki"
+        },
+        {
+          "id": 288,
+          "name": "Calabar Municipality"
+        },
+        {
+          "id": 284,
+          "name": "Calabar South"
+        },
+        {
+          "id": 285,
+          "name": "Etung"
+        },
+        {
+          "id": 276,
+          "name": "Ikom"
+        },
+        {
+          "id": 282,
+          "name": "Obanliku"
+        },
+        {
+          "id": 283,
+          "name": "Obudu"
+        },
+        {
+          "id": 278,
+          "name": "Odubra"
+        },
+        {
+          "id": 272,
+          "name": "Odukpani"
+        },
+        {
+          "id": 280,
+          "name": "Ogoja"
+        },
+        {
+          "id": 281,
+          "name": "Yala"
+        },
+        {
+          "id": 277,
+          "name": "Yarkur"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Delta",
+      "lga": [
+        {
+          "id": 290,
+          "name": "Aniocha"
+        },
+        {
+          "id": 291,
+          "name": "Aniocha South"
+        },
+        {
+          "id": 298,
+          "name": "Bomadi"
+        },
+        {
+          "id": 299,
+          "name": "Burutu"
+        },
+        {
+          "id": 303,
+          "name": "Ethiope East"
+        },
+        {
+          "id": 302,
+          "name": "Ethiope West"
+        },
+        {
+          "id": 293,
+          "name": "Ika North-East"
+        },
+        {
+          "id": 292,
+          "name": "Ika South"
+        },
+        {
+          "id": 297,
+          "name": "Isoko North"
+        },
+        {
+          "id": 296,
+          "name": "Isoko south"
+        },
+        {
+          "id": 295,
+          "name": "Ndokwa East"
+        },
+        {
+          "id": 294,
+          "name": "Ndokwa West"
+        },
+        {
+          "id": 305,
+          "name": "Okpe"
+        },
+        {
+          "id": 289,
+          "name": "Oshimili"
+        },
+        {
+          "id": 312,
+          "name": "Oshimili North"
+        },
+        {
+          "id": 313,
+          "name": "Patani"
+        },
+        {
+          "id": 304,
+          "name": "Sapele"
+        },
+        {
+          "id": 309,
+          "name": "Udu"
+        },
+        {
+          "id": 301,
+          "name": "Ughelli North"
+        },
+        {
+          "id": 300,
+          "name": "Ughelli South"
+        },
+        {
+          "id": 311,
+          "name": "Ukwani"
+        },
+        {
+          "id": 308,
+          "name": "Uvwie"
+        },
+        {
+          "id": 310,
+          "name": "Warri Central"
+        },
+        {
+          "id": 306,
+          "name": "Warri North"
+        },
+        {
+          "id": 307,
+          "name": "Warri South"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ebonyi ",
+      "lga": [
+        {
+          "id": 318,
+          "name": "Abakaliki"
+        },
+        {
+          "id": 315,
+          "name": "Afikpo North"
+        },
+        {
+          "id": 314,
+          "name": "Afikpo South"
+        },
+        {
+          "id": 324,
+          "name": "Ebonyi"
+        },
+        {
+          "id": 321,
+          "name": "Ezza"
+        },
+        {
+          "id": 322,
+          "name": "Ezza South"
+        },
+        {
+          "id": 319,
+          "name": "Ishielu"
+        },
+        {
+          "id": 325,
+          "name": "Ivo"
+        },
+        {
+          "id": 320,
+          "name": "lkwo"
+        },
+        {
+          "id": 317,
+          "name": "Ohaozara"
+        },
+        {
+          "id": 323,
+          "name": "Ohaukwu"
+        },
+        {
+          "id": 316,
+          "name": "Onicha"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Edo",
+      "lga": [
+        {
+          "id": 331,
+          "name": "Central"
+        },
+        {
+          "id": 329,
+          "name": "Egor"
+        },
+        {
+          "id": 327,
+          "name": "Esan Central"
+        },
+        {
+          "id": 326,
+          "name": "Esan North-East"
+        },
+        {
+          "id": 340,
+          "name": "Esan South-East"
+        },
+        {
+          "id": 328,
+          "name": "Esan West"
+        },
+        {
+          "id": 332,
+          "name": "Etsako Central"
+        },
+        {
+          "id": 339,
+          "name": "Etsako East"
+        },
+        {
+          "id": 333,
+          "name": "Igueben"
+        },
+        {
+          "id": 334,
+          "name": "Oredo"
+        },
+        {
+          "id": 337,
+          "name": "Orhionwon"
+        },
+        {
+          "id": 336,
+          "name": "Ovia South-East"
+        },
+        {
+          "id": 335,
+          "name": "Ovia SouthWest"
+        },
+        {
+          "id": 338,
+          "name": "Uhunmwonde"
+        },
+        {
+          "id": 330,
+          "name": "Ukpoba"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ekiti",
+      "lga": [
+        {
+          "id": 348,
+          "name": "\"Ijero,\""
+        },
+        {
+          "id": 341,
+          "name": "Ado"
+        },
+        {
+          "id": 354,
+          "name": "Efon"
+        },
+        {
+          "id": 345,
+          "name": "Ekiti South-West"
+        },
+        {
+          "id": 342,
+          "name": "Ekiti-East"
+        },
+        {
+          "id": 343,
+          "name": "Ekiti-West"
+        },
+        {
+          "id": 344,
+          "name": "Emure/Ise/Orun"
+        },
+        {
+          "id": 353,
+          "name": "Gbonyin"
+        },
+        {
+          "id": 349,
+          "name": "Ido/Osi"
+        },
+        {
+          "id": 346,
+          "name": "Ikare"
+        },
+        {
+          "id": 351,
+          "name": "Ikole"
+        },
+        {
+          "id": 356,
+          "name": "Ilejemeje."
+        },
+        {
+          "id": 347,
+          "name": "Irepodun"
+        },
+        {
+          "id": 355,
+          "name": "Ise/Orun"
+        },
+        {
+          "id": 352,
+          "name": "Moba"
+        },
+        {
+          "id": 350,
+          "name": "Oye"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Enugu",
+      "lga": [
+        {
+          "id": 357,
+          "name": "\"Enugu South,\""
+        },
+        {
+          "id": 370,
+          "name": "Aninri"
+        },
+        {
+          "id": 369,
+          "name": "Enugu Eas"
+        },
+        {
+          "id": 359,
+          "name": "Enugu North"
+        },
+        {
+          "id": 363,
+          "name": "Ezeagu"
+        },
+        {
+          "id": 367,
+          "name": "Igbo-Ekiti"
+        },
+        {
+          "id": 364,
+          "name": "IgboEze North"
+        },
+        {
+          "id": 358,
+          "name": "Igbo-Eze South"
+        },
+        {
+          "id": 365,
+          "name": "Isi-Uzo"
+        },
+        {
+          "id": 360,
+          "name": "Nkanu"
+        },
+        {
+          "id": 371,
+          "name": "Nkanu East"
+        },
+        {
+          "id": 366,
+          "name": "Nsukka"
+        },
+        {
+          "id": 362,
+          "name": "Oji-River"
+        },
+        {
+          "id": 372,
+          "name": "Udenu."
+        },
+        {
+          "id": 361,
+          "name": "Udi Agwu"
+        },
+        {
+          "id": 368,
+          "name": "Uzo-Uwani"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "FCT",
+      "lga": [
+        {
+          "id": 23,
+          "name": " Abaji "
+        },
+        {
+          "id": 24,
+          "name": " Abuja Municipal "
+        },
+        {
+          "id": 25,
+          "name": " Bwari "
+        },
+        {
+          "id": 26,
+          "name": " Kwali"
+        },
+        {
+          "id": 21,
+          "name": "Gwagwalada "
+        },
+        {
+          "id": 22,
+          "name": "Kuje "
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Gombe",
+      "lga": [
+        {
+          "id": 373,
+          "name": "Akko"
+        },
+        {
+          "id": 374,
+          "name": "Balanga"
+        },
+        {
+          "id": 375,
+          "name": "Billiri"
+        },
+        {
+          "id": 376,
+          "name": "Dukku"
+        },
+        {
+          "id": 380,
+          "name": "Funakaye"
+        },
+        {
+          "id": 381,
+          "name": "Gombe"
+        },
+        {
+          "id": 377,
+          "name": "Kaltungo"
+        },
+        {
+          "id": 378,
+          "name": "Kwami"
+        },
+        {
+          "id": 382,
+          "name": "Nafada/Bajoga"
+        },
+        {
+          "id": 379,
+          "name": "Shomgom"
+        },
+        {
+          "id": 383,
+          "name": "Yamaltu/Delta."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Imo",
+      "lga": [
+        {
+          "id": 384,
+          "name": "Aboh-Mbaise"
+        },
+        {
+          "id": 385,
+          "name": "Ahiazu-Mbaise"
+        },
+        {
+          "id": 386,
+          "name": "Ehime-Mbano"
+        },
+        {
+          "id": 387,
+          "name": "Ezinihitte"
+        },
+        {
+          "id": 388,
+          "name": "Ideato North"
+        },
+        {
+          "id": 389,
+          "name": "Ideato South"
+        },
+        {
+          "id": 390,
+          "name": "Ihitte/Uboma"
+        },
+        {
+          "id": 391,
+          "name": "Ikeduru"
+        },
+        {
+          "id": 392,
+          "name": "Isiala Mbano"
+        },
+        {
+          "id": 393,
+          "name": "Isu"
+        },
+        {
+          "id": 394,
+          "name": "Mbaitoli"
+        },
+        {
+          "id": 395,
+          "name": "Mbaitoli"
+        },
+        {
+          "id": 396,
+          "name": "Ngor-Okpala"
+        },
+        {
+          "id": 397,
+          "name": "Njaba"
+        },
+        {
+          "id": 399,
+          "name": "Nkwerre"
+        },
+        {
+          "id": 398,
+          "name": "Nwangele"
+        },
+        {
+          "id": 400,
+          "name": "Obowo"
+        },
+        {
+          "id": 401,
+          "name": "Oguta"
+        },
+        {
+          "id": 402,
+          "name": "Ohaji/Egbema"
+        },
+        {
+          "id": 403,
+          "name": "Okigwe"
+        },
+        {
+          "id": 404,
+          "name": "Orlu"
+        },
+        {
+          "id": 405,
+          "name": "Orsu"
+        },
+        {
+          "id": 406,
+          "name": "Oru East"
+        },
+        {
+          "id": 407,
+          "name": "Oru West"
+        },
+        {
+          "id": 409,
+          "name": "Owerri North"
+        },
+        {
+          "id": 410,
+          "name": "Owerri West"
+        },
+        {
+          "id": 408,
+          "name": "Owerri-Municipal"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Jigawa",
+      "lga": [
+        {
+          "id": 411,
+          "name": "Auyo"
+        },
+        {
+          "id": 412,
+          "name": "Babura"
+        },
+        {
+          "id": 414,
+          "name": "Biriniwa"
+        },
+        {
+          "id": 413,
+          "name": "Birni Kudu"
+        },
+        {
+          "id": 415,
+          "name": "Buji"
+        },
+        {
+          "id": 416,
+          "name": "Dutse"
+        },
+        {
+          "id": 417,
+          "name": "Gagarawa"
+        },
+        {
+          "id": 418,
+          "name": "Garki"
+        },
+        {
+          "id": 419,
+          "name": "Gumel"
+        },
+        {
+          "id": 420,
+          "name": "Guri"
+        },
+        {
+          "id": 421,
+          "name": "Gwaram"
+        },
+        {
+          "id": 422,
+          "name": "Gwiwa"
+        },
+        {
+          "id": 423,
+          "name": "Hadejia"
+        },
+        {
+          "id": 424,
+          "name": "Jahun"
+        },
+        {
+          "id": 425,
+          "name": "Kafin Hausa"
+        },
+        {
+          "id": 426,
+          "name": "Kaugama Kazaure"
+        },
+        {
+          "id": 427,
+          "name": "Kiri Kasamma"
+        },
+        {
+          "id": 428,
+          "name": "Kiyawa"
+        },
+        {
+          "id": 429,
+          "name": "Maigatari"
+        },
+        {
+          "id": 430,
+          "name": "Malam Madori"
+        },
+        {
+          "id": 431,
+          "name": "Miga"
+        },
+        {
+          "id": 432,
+          "name": "Ringim"
+        },
+        {
+          "id": 433,
+          "name": "Roni"
+        },
+        {
+          "id": 434,
+          "name": "Sule-Tankarkar"
+        },
+        {
+          "id": 435,
+          "name": "Taura"
+        },
+        {
+          "id": 436,
+          "name": "Yankwashi"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Kaduna",
+      "lga": [
+        {
+          "id": 437,
+          "name": "Birni-Gwari"
+        },
+        {
+          "id": 438,
+          "name": "Chikun"
+        },
+        {
+          "id": 439,
+          "name": "Giwa"
+        },
+        {
+          "id": 440,
+          "name": "Igabi"
+        },
+        {
+          "id": 441,
+          "name": "Ikara"
+        },
+        {
+          "id": 442,
+          "name": "jaba"
+        },
+        {
+          "id": 443,
+          "name": "Jema'a"
+        },
+        {
+          "id": 444,
+          "name": "Kachia"
+        },
+        {
+          "id": 445,
+          "name": "Kaduna North"
+        },
+        {
+          "id": 446,
+          "name": "Kaduna South"
+        },
+        {
+          "id": 447,
+          "name": "Kagarko"
+        },
+        {
+          "id": 448,
+          "name": "Kajuru"
+        },
+        {
+          "id": 449,
+          "name": "Kaura"
+        },
+        {
+          "id": 450,
+          "name": "Kauru"
+        },
+        {
+          "id": 451,
+          "name": "Kubau"
+        },
+        {
+          "id": 452,
+          "name": "Kudan"
+        },
+        {
+          "id": 453,
+          "name": "Lere"
+        },
+        {
+          "id": 454,
+          "name": "Makarfi"
+        },
+        {
+          "id": 455,
+          "name": "Sabon-Gari"
+        },
+        {
+          "id": 456,
+          "name": "Sanga"
+        },
+        {
+          "id": 457,
+          "name": "Soba"
+        },
+        {
+          "id": 458,
+          "name": "Zango-Kataf"
+        },
+        {
+          "id": 459,
+          "name": "Zaria"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Kano",
+      "lga": [
+        {
+          "id": 460,
+          "name": "Ajingi"
+        },
+        {
+          "id": 461,
+          "name": "Albasu"
+        },
+        {
+          "id": 462,
+          "name": "Bagwai"
+        },
+        {
+          "id": 463,
+          "name": "Bebeji"
+        },
+        {
+          "id": 464,
+          "name": "Bichi"
+        },
+        {
+          "id": 465,
+          "name": "Bunkure"
+        },
+        {
+          "id": 466,
+          "name": "Dala"
+        },
+        {
+          "id": 467,
+          "name": "Dambatta"
+        },
+        {
+          "id": 468,
+          "name": "Dawakin Kudu"
+        },
+        {
+          "id": 469,
+          "name": "Dawakin Tofa"
+        },
+        {
+          "id": 470,
+          "name": "Doguwa"
+        },
+        {
+          "id": 471,
+          "name": "Fagge"
+        },
+        {
+          "id": 472,
+          "name": "Gabasawa"
+        },
+        {
+          "id": 473,
+          "name": "Garko"
+        },
+        {
+          "id": 474,
+          "name": "Garum"
+        },
+        {
+          "id": 476,
+          "name": "Gaya"
+        },
+        {
+          "id": 477,
+          "name": "Gezawa"
+        },
+        {
+          "id": 478,
+          "name": "Gwale"
+        },
+        {
+          "id": 479,
+          "name": "Gwarzo"
+        },
+        {
+          "id": 480,
+          "name": "Kabo"
+        },
+        {
+          "id": 481,
+          "name": "Kano Municipal"
+        },
+        {
+          "id": 482,
+          "name": "Karaye"
+        },
+        {
+          "id": 483,
+          "name": "Kibiya"
+        },
+        {
+          "id": 484,
+          "name": "Kiru"
+        },
+        {
+          "id": 485,
+          "name": "kumbotso"
+        },
+        {
+          "id": 486,
+          "name": "Kunchi"
+        },
+        {
+          "id": 487,
+          "name": "Kura"
+        },
+        {
+          "id": 488,
+          "name": "Madobi"
+        },
+        {
+          "id": 489,
+          "name": "Makoda"
+        },
+        {
+          "id": 475,
+          "name": "Mallam"
+        },
+        {
+          "id": 490,
+          "name": "Minjibir"
+        },
+        {
+          "id": 491,
+          "name": "Nasarawa"
+        },
+        {
+          "id": 492,
+          "name": "Rano"
+        },
+        {
+          "id": 493,
+          "name": "Rimin Gado"
+        },
+        {
+          "id": 494,
+          "name": "Rogo"
+        },
+        {
+          "id": 495,
+          "name": "Shanono"
+        },
+        {
+          "id": 496,
+          "name": "Sumaila"
+        },
+        {
+          "id": 497,
+          "name": "Takali"
+        },
+        {
+          "id": 498,
+          "name": "Tarauni"
+        },
+        {
+          "id": 499,
+          "name": "Tofa"
+        },
+        {
+          "id": 500,
+          "name": "Tsanyawa"
+        },
+        {
+          "id": 501,
+          "name": "Tudun Wada"
+        },
+        {
+          "id": 502,
+          "name": "Ungogo"
+        },
+        {
+          "id": 503,
+          "name": "Warawa"
+        },
+        {
+          "id": 504,
+          "name": "Wudil"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Katsina",
+      "lga": [
+        {
+          "id": 505,
+          "name": "Bakori"
+        },
+        {
+          "id": 506,
+          "name": "Batagarawa"
+        },
+        {
+          "id": 507,
+          "name": "Batsari"
+        },
+        {
+          "id": 508,
+          "name": "Baure"
+        },
+        {
+          "id": 509,
+          "name": "Bindawa"
+        },
+        {
+          "id": 510,
+          "name": "Charanchi"
+        },
+        {
+          "id": 513,
+          "name": "Dan Musa"
+        },
+        {
+          "id": 511,
+          "name": "Dandume"
+        },
+        {
+          "id": 512,
+          "name": "Danja"
+        },
+        {
+          "id": 514,
+          "name": "Daura"
+        },
+        {
+          "id": 515,
+          "name": "Dutsi"
+        },
+        {
+          "id": 516,
+          "name": "Dutsin-Ma"
+        },
+        {
+          "id": 517,
+          "name": "Faskari"
+        },
+        {
+          "id": 518,
+          "name": "Funtua"
+        },
+        {
+          "id": 519,
+          "name": "Ingawa"
+        },
+        {
+          "id": 520,
+          "name": "Jibia"
+        },
+        {
+          "id": 521,
+          "name": "Kafur"
+        },
+        {
+          "id": 522,
+          "name": "Kaita"
+        },
+        {
+          "id": 523,
+          "name": "Kankara"
+        },
+        {
+          "id": 524,
+          "name": "Kankia"
+        },
+        {
+          "id": 525,
+          "name": "Katsina"
+        },
+        {
+          "id": 526,
+          "name": "Kurfi"
+        },
+        {
+          "id": 527,
+          "name": "Kusada"
+        },
+        {
+          "id": 528,
+          "name": "Mai'Adua"
+        },
+        {
+          "id": 529,
+          "name": "Malumfashi"
+        },
+        {
+          "id": 530,
+          "name": "Mani"
+        },
+        {
+          "id": 531,
+          "name": "Mashi"
+        },
+        {
+          "id": 532,
+          "name": "Matazuu"
+        },
+        {
+          "id": 533,
+          "name": "Musawa"
+        },
+        {
+          "id": 534,
+          "name": "Rimi"
+        },
+        {
+          "id": 535,
+          "name": "Sabuwa"
+        },
+        {
+          "id": 536,
+          "name": "Safana"
+        },
+        {
+          "id": 537,
+          "name": "Sandamu"
+        },
+        {
+          "id": 538,
+          "name": "Zango"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Kebbi",
+      "lga": [
+        {
+          "id": 539,
+          "name": "Aleiro"
+        },
+        {
+          "id": 540,
+          "name": "Arewa-Dandi"
+        },
+        {
+          "id": 541,
+          "name": "Argungu"
+        },
+        {
+          "id": 542,
+          "name": "Augie"
+        },
+        {
+          "id": 543,
+          "name": "Bagudo"
+        },
+        {
+          "id": 544,
+          "name": "Birnin Kebbi"
+        },
+        {
+          "id": 545,
+          "name": "Bunza"
+        },
+        {
+          "id": 546,
+          "name": "Dandi"
+        },
+        {
+          "id": 547,
+          "name": "Fakai"
+        },
+        {
+          "id": 548,
+          "name": "Gwandu"
+        },
+        {
+          "id": 549,
+          "name": "Jega"
+        },
+        {
+          "id": 550,
+          "name": "Kalgo"
+        },
+        {
+          "id": 551,
+          "name": "Koko/Besse"
+        },
+        {
+          "id": 552,
+          "name": "Maiyama"
+        },
+        {
+          "id": 553,
+          "name": "Ngaski"
+        },
+        {
+          "id": 554,
+          "name": "Sakaba"
+        },
+        {
+          "id": 555,
+          "name": "Shanga"
+        },
+        {
+          "id": 556,
+          "name": "Suru"
+        },
+        {
+          "id": 557,
+          "name": "Wasagu/Danko"
+        },
+        {
+          "id": 558,
+          "name": "Yauri"
+        },
+        {
+          "id": 559,
+          "name": "Zuru"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Kogi",
+      "lga": [
+        {
+          "id": 560,
+          "name": "Adavi"
+        },
+        {
+          "id": 561,
+          "name": "Ajaokuta"
+        },
+        {
+          "id": 562,
+          "name": "Ankpa"
+        },
+        {
+          "id": 563,
+          "name": "Bassa"
+        },
+        {
+          "id": 564,
+          "name": "Dekina"
+        },
+        {
+          "id": 565,
+          "name": "Ibaji"
+        },
+        {
+          "id": 566,
+          "name": "Idah"
+        },
+        {
+          "id": 567,
+          "name": "Igalamela-Odolu"
+        },
+        {
+          "id": 568,
+          "name": "Ijumu"
+        },
+        {
+          "id": 569,
+          "name": "Kabba/Bunu"
+        },
+        {
+          "id": 570,
+          "name": "Kogi"
+        },
+        {
+          "id": 571,
+          "name": "Lokoja"
+        },
+        {
+          "id": 572,
+          "name": "Mopa-Muro"
+        },
+        {
+          "id": 573,
+          "name": "Ofu"
+        },
+        {
+          "id": 574,
+          "name": "Ogori/Mangongo"
+        },
+        {
+          "id": 575,
+          "name": "Okehi"
+        },
+        {
+          "id": 576,
+          "name": "Okene"
+        },
+        {
+          "id": 577,
+          "name": "Olamabolo"
+        },
+        {
+          "id": 578,
+          "name": "Omala"
+        },
+        {
+          "id": 579,
+          "name": "Yagba East"
+        },
+        {
+          "id": 580,
+          "name": "Yagba West"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Kwara",
+      "lga": [
+        {
+          "id": 581,
+          "name": "Asa"
+        },
+        {
+          "id": 582,
+          "name": "Baruten"
+        },
+        {
+          "id": 583,
+          "name": "Edu"
+        },
+        {
+          "id": 584,
+          "name": "Ekiti"
+        },
+        {
+          "id": 585,
+          "name": "Ifelodun"
+        },
+        {
+          "id": 586,
+          "name": "Ilorin East"
+        },
+        {
+          "id": 587,
+          "name": "Ilorin West"
+        },
+        {
+          "id": 588,
+          "name": "Irepodun"
+        },
+        {
+          "id": 589,
+          "name": "Isin"
+        },
+        {
+          "id": 590,
+          "name": "Kaiama"
+        },
+        {
+          "id": 591,
+          "name": "Moro"
+        },
+        {
+          "id": 592,
+          "name": "Offa"
+        },
+        {
+          "id": 593,
+          "name": "Oke-Ero"
+        },
+        {
+          "id": 594,
+          "name": "Oyun"
+        },
+        {
+          "id": 595,
+          "name": "Pategi"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Lagos",
+      "lga": [
+        {
+          "id": 1,
+          "name": "Agege "
+        },
+        {
+          "id": 2,
+          "name": "Ajeromi-Ifelodun "
+        },
+        {
+          "id": 3,
+          "name": "Alimosho "
+        },
+        {
+          "id": 4,
+          "name": "Amuwo-Odofin "
+        },
+        {
+          "id": 5,
+          "name": "Apapa "
+        },
+        {
+          "id": 6,
+          "name": "Badagry "
+        },
+        {
+          "id": 7,
+          "name": "Epe "
+        },
+        {
+          "id": 8,
+          "name": "Eti-Osa "
+        },
+        {
+          "id": 9,
+          "name": "Ibeju/Lekki "
+        },
+        {
+          "id": 10,
+          "name": "Ifako-Ijaye  "
+        },
+        {
+          "id": 11,
+          "name": "Ikeja "
+        },
+        {
+          "id": 12,
+          "name": "Ikorodu "
+        },
+        {
+          "id": 13,
+          "name": "Kosofe "
+        },
+        {
+          "id": 14,
+          "name": "Lagos Island "
+        },
+        {
+          "id": 15,
+          "name": "Lagos Mainland "
+        },
+        {
+          "id": 16,
+          "name": "Mushin "
+        },
+        {
+          "id": 17,
+          "name": "Ojo "
+        },
+        {
+          "id": 18,
+          "name": "Oshodi-Isolo "
+        },
+        {
+          "id": 19,
+          "name": "Shomolu "
+        },
+        {
+          "id": 20,
+          "name": "Surulere"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Nasarawa",
+      "lga": [
+        {
+          "id": 596,
+          "name": "Akwanga"
+        },
+        {
+          "id": 597,
+          "name": "Awe"
+        },
+        {
+          "id": 598,
+          "name": "Doma"
+        },
+        {
+          "id": 599,
+          "name": "Karu"
+        },
+        {
+          "id": 600,
+          "name": "Keana"
+        },
+        {
+          "id": 601,
+          "name": "Keffi"
+        },
+        {
+          "id": 602,
+          "name": "Kokona"
+        },
+        {
+          "id": 603,
+          "name": "Lafia"
+        },
+        {
+          "id": 604,
+          "name": "Nasarawa"
+        },
+        {
+          "id": 605,
+          "name": "Nasarawa-Eggon"
+        },
+        {
+          "id": 606,
+          "name": "Obi"
+        },
+        {
+          "id": 607,
+          "name": "Toto"
+        },
+        {
+          "id": 608,
+          "name": "Wamba"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Niger",
+      "lga": [
+        {
+          "id": 609,
+          "name": "Agaie"
+        },
+        {
+          "id": 610,
+          "name": "Agwara"
+        },
+        {
+          "id": 611,
+          "name": "Bida"
+        },
+        {
+          "id": 612,
+          "name": "Borgu"
+        },
+        {
+          "id": 613,
+          "name": "Bosso"
+        },
+        {
+          "id": 614,
+          "name": "Chanchaga"
+        },
+        {
+          "id": 615,
+          "name": "Edati"
+        },
+        {
+          "id": 616,
+          "name": "Gbako"
+        },
+        {
+          "id": 617,
+          "name": "Gurara"
+        },
+        {
+          "id": 618,
+          "name": "Katcha"
+        },
+        {
+          "id": 619,
+          "name": "Kontagora"
+        },
+        {
+          "id": 620,
+          "name": "Lapai"
+        },
+        {
+          "id": 621,
+          "name": "Lavun"
+        },
+        {
+          "id": 622,
+          "name": "Magama"
+        },
+        {
+          "id": 623,
+          "name": "Mariga"
+        },
+        {
+          "id": 624,
+          "name": "Mashegu"
+        },
+        {
+          "id": 625,
+          "name": "Mokwa"
+        },
+        {
+          "id": 626,
+          "name": "Muya"
+        },
+        {
+          "id": 627,
+          "name": "Pailoro"
+        },
+        {
+          "id": 628,
+          "name": "Rafi"
+        },
+        {
+          "id": 629,
+          "name": "Rijau"
+        },
+        {
+          "id": 630,
+          "name": "Shiroro"
+        },
+        {
+          "id": 631,
+          "name": "Suleja"
+        },
+        {
+          "id": 632,
+          "name": "Tafa"
+        },
+        {
+          "id": 633,
+          "name": "Wushishi"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ogun",
+      "lga": [
+        {
+          "id": 27,
+          "name": "Abeokuta North "
+        },
+        {
+          "id": 28,
+          "name": "Abeokuta South "
+        },
+        {
+          "id": 29,
+          "name": "Ado-Odo/Ota "
+        },
+        {
+          "id": 30,
+          "name": "Egbado North "
+        },
+        {
+          "id": 31,
+          "name": "Egbado South "
+        },
+        {
+          "id": 32,
+          "name": "Ewekoro "
+        },
+        {
+          "id": 33,
+          "name": "Ifo "
+        },
+        {
+          "id": 34,
+          "name": "Ijebu East "
+        },
+        {
+          "id": 36,
+          "name": "Ijebu North East "
+        },
+        {
+          "id": 35,
+          "name": "Ijebu North "
+        },
+        {
+          "id": 37,
+          "name": "Ijebu Ode "
+        },
+        {
+          "id": 38,
+          "name": "Ikenne "
+        },
+        {
+          "id": 39,
+          "name": "Imeko-Afon "
+        },
+        {
+          "id": 40,
+          "name": "Ipokia "
+        },
+        {
+          "id": 41,
+          "name": "Obafemi-Owode "
+        },
+        {
+          "id": 43,
+          "name": "Odeda "
+        },
+        {
+          "id": 44,
+          "name": "Odogbolu "
+        },
+        {
+          "id": 42,
+          "name": "Ogun Waterside "
+        },
+        {
+          "id": 45,
+          "name": "Remo North "
+        },
+        {
+          "id": 46,
+          "name": "Shagamu"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Ondo",
+      "lga": [
+        {
+          "id": 634,
+          "name": "Akoko North East"
+        },
+        {
+          "id": 635,
+          "name": "Akoko North West"
+        },
+        {
+          "id": 187,
+          "name": "Akoko South Akure East"
+        },
+        {
+          "id": 636,
+          "name": "Akoko South West"
+        },
+        {
+          "id": 637,
+          "name": "Akure North"
+        },
+        {
+          "id": 638,
+          "name": "Akure South"
+        },
+        {
+          "id": 639,
+          "name": "Ese-Odo"
+        },
+        {
+          "id": 640,
+          "name": "Idanre"
+        },
+        {
+          "id": 641,
+          "name": "Ifedore"
+        },
+        {
+          "id": 642,
+          "name": "Ilaje"
+        },
+        {
+          "id": 643,
+          "name": "Ile-Oluji"
+        },
+        {
+          "id": 645,
+          "name": "Irele"
+        },
+        {
+          "id": 646,
+          "name": "Odigbo"
+        },
+        {
+          "id": 644,
+          "name": "Okeigbo"
+        },
+        {
+          "id": 647,
+          "name": "Okitipupa"
+        },
+        {
+          "id": 648,
+          "name": "Ondo East"
+        },
+        {
+          "id": 649,
+          "name": "Ondo West"
+        },
+        {
+          "id": 650,
+          "name": "Ose"
+        },
+        {
+          "id": 651,
+          "name": "Owo"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Osun",
+      "lga": [
+        {
+          "id": 652,
+          "name": "Aiyedade"
+        },
+        {
+          "id": 653,
+          "name": "Aiyedire"
+        },
+        {
+          "id": 654,
+          "name": "Atakumosa East"
+        },
+        {
+          "id": 655,
+          "name": "Atakumosa West"
+        },
+        {
+          "id": 656,
+          "name": "Boluwaduro"
+        },
+        {
+          "id": 657,
+          "name": "Boripe"
+        },
+        {
+          "id": 658,
+          "name": "Ede North"
+        },
+        {
+          "id": 659,
+          "name": "Ede South"
+        },
+        {
+          "id": 660,
+          "name": "Egbedore"
+        },
+        {
+          "id": 661,
+          "name": "Ejigbo"
+        },
+        {
+          "id": 662,
+          "name": "Ife Central"
+        },
+        {
+          "id": 663,
+          "name": "Ife East"
+        },
+        {
+          "id": 664,
+          "name": "Ife North"
+        },
+        {
+          "id": 665,
+          "name": "Ife South"
+        },
+        {
+          "id": 666,
+          "name": "Ifedayo"
+        },
+        {
+          "id": 667,
+          "name": "Ifelodun"
+        },
+        {
+          "id": 668,
+          "name": "Ila"
+        },
+        {
+          "id": 669,
+          "name": "Ilesha East"
+        },
+        {
+          "id": 670,
+          "name": "Ilesha West"
+        },
+        {
+          "id": 671,
+          "name": "Irepodun"
+        },
+        {
+          "id": 672,
+          "name": "Irewole"
+        },
+        {
+          "id": 673,
+          "name": "Isokan"
+        },
+        {
+          "id": 674,
+          "name": "Iwo"
+        },
+        {
+          "id": 675,
+          "name": "Obokun"
+        },
+        {
+          "id": 676,
+          "name": "Odo-Otin"
+        },
+        {
+          "id": 677,
+          "name": "Ola-Oluwa"
+        },
+        {
+          "id": 678,
+          "name": "Olorunda"
+        },
+        {
+          "id": 679,
+          "name": "Oriade"
+        },
+        {
+          "id": 680,
+          "name": "Orolu"
+        },
+        {
+          "id": 681,
+          "name": "Osogbo"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Oyo",
+      "lga": [
+        {
+          "id": 47,
+          "name": "Afijio "
+        },
+        {
+          "id": 48,
+          "name": "Akinyele "
+        },
+        {
+          "id": 49,
+          "name": "Atiba "
+        },
+        {
+          "id": 50,
+          "name": "Atigbo "
+        },
+        {
+          "id": 51,
+          "name": "Egbeda "
+        },
+        {
+          "id": 54,
+          "name": "Ibadan North West "
+        },
+        {
+          "id": 53,
+          "name": "Ibadan North "
+        },
+        {
+          "id": 55,
+          "name": "Ibadan South East "
+        },
+        {
+          "id": 56,
+          "name": "Ibadan South West "
+        },
+        {
+          "id": 52,
+          "name": "IbadanCentral "
+        },
+        {
+          "id": 57,
+          "name": "Ibarapa Central "
+        },
+        {
+          "id": 58,
+          "name": "Ibarapa East "
+        },
+        {
+          "id": 59,
+          "name": "Ibarapa North "
+        },
+        {
+          "id": 60,
+          "name": "Ido "
+        },
+        {
+          "id": 61,
+          "name": "Irepo "
+        },
+        {
+          "id": 62,
+          "name": "Iseyin "
+        },
+        {
+          "id": 63,
+          "name": "Itesiwaju "
+        },
+        {
+          "id": 64,
+          "name": "Iwajowa "
+        },
+        {
+          "id": 65,
+          "name": "Kajola "
+        },
+        {
+          "id": 66,
+          "name": "Lagelu Ogbomosho North "
+        },
+        {
+          "id": 67,
+          "name": "Ogbmosho South "
+        },
+        {
+          "id": 68,
+          "name": "Ogo Oluwa "
+        },
+        {
+          "id": 69,
+          "name": "Olorunsogo "
+        },
+        {
+          "id": 70,
+          "name": "Oluyole "
+        },
+        {
+          "id": 71,
+          "name": "Ona-Ara "
+        },
+        {
+          "id": 72,
+          "name": "Orelope "
+        },
+        {
+          "id": 73,
+          "name": "Ori Ire "
+        },
+        {
+          "id": 74,
+          "name": "Oyo East "
+        },
+        {
+          "id": 75,
+          "name": "Oyo West "
+        },
+        {
+          "id": 76,
+          "name": "Saki East "
+        },
+        {
+          "id": 77,
+          "name": "Saki West "
+        },
+        {
+          "id": 78,
+          "name": "Surulere"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Plateau",
+      "lga": [
+        {
+          "id": 682,
+          "name": "Barikin Ladi"
+        },
+        {
+          "id": 683,
+          "name": "Bassa"
+        },
+        {
+          "id": 684,
+          "name": "Bokkos"
+        },
+        {
+          "id": 685,
+          "name": "Jos East"
+        },
+        {
+          "id": 686,
+          "name": "Jos North"
+        },
+        {
+          "id": 687,
+          "name": "Jos South"
+        },
+        {
+          "id": 688,
+          "name": "Kanam"
+        },
+        {
+          "id": 689,
+          "name": "Kanke"
+        },
+        {
+          "id": 690,
+          "name": "Langtang North"
+        },
+        {
+          "id": 691,
+          "name": "Langtang South"
+        },
+        {
+          "id": 692,
+          "name": "Mangu"
+        },
+        {
+          "id": 693,
+          "name": "Mikang"
+        },
+        {
+          "id": 694,
+          "name": "Pankshin"
+        },
+        {
+          "id": 695,
+          "name": "Qua'an Pan"
+        },
+        {
+          "id": 696,
+          "name": "Riyom"
+        },
+        {
+          "id": 697,
+          "name": "Shendam"
+        },
+        {
+          "id": 698,
+          "name": "Wase"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rivers",
+      "lga": [
+        {
+          "id": 79,
+          "name": "Abua/Odual "
+        },
+        {
+          "id": 80,
+          "name": "Ahoada East "
+        },
+        {
+          "id": 81,
+          "name": "Ahoada West "
+        },
+        {
+          "id": 82,
+          "name": "Akuku Toru "
+        },
+        {
+          "id": 83,
+          "name": "Andoni "
+        },
+        {
+          "id": 84,
+          "name": "Asari-Toru "
+        },
+        {
+          "id": 85,
+          "name": "Bonny "
+        },
+        {
+          "id": 86,
+          "name": "Degema "
+        },
+        {
+          "id": 88,
+          "name": "Eleme "
+        },
+        {
+          "id": 87,
+          "name": "Emohua "
+        },
+        {
+          "id": 89,
+          "name": "Etche "
+        },
+        {
+          "id": 90,
+          "name": "Gokana "
+        },
+        {
+          "id": 91,
+          "name": "Ikwerre "
+        },
+        {
+          "id": 92,
+          "name": "Khana "
+        },
+        {
+          "id": 93,
+          "name": "Obia/Akpor "
+        },
+        {
+          "id": 94,
+          "name": "Ogba/Egbema/Ndoni "
+        },
+        {
+          "id": 95,
+          "name": "Ogu/Bolo "
+        },
+        {
+          "id": 96,
+          "name": "Okrika "
+        },
+        {
+          "id": 97,
+          "name": "Omumma "
+        },
+        {
+          "id": 98,
+          "name": "Opobo/Nkoro "
+        },
+        {
+          "id": 99,
+          "name": "Oyigbo "
+        },
+        {
+          "id": 100,
+          "name": "Port-Harcourt "
+        },
+        {
+          "id": 101,
+          "name": "Tai "
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Sokoto",
+      "lga": [
+        {
+          "id": 699,
+          "name": "Binji"
+        },
+        {
+          "id": 700,
+          "name": "Bodinga"
+        },
+        {
+          "id": 701,
+          "name": "Dange-shnsi"
+        },
+        {
+          "id": 702,
+          "name": "Gada"
+        },
+        {
+          "id": 705,
+          "name": "Gawabawa"
+        },
+        {
+          "id": 703,
+          "name": "Goronyo"
+        },
+        {
+          "id": 704,
+          "name": "Gudu"
+        },
+        {
+          "id": 706,
+          "name": "Illela"
+        },
+        {
+          "id": 707,
+          "name": "Isa"
+        },
+        {
+          "id": 709,
+          "name": "kebbe"
+        },
+        {
+          "id": 708,
+          "name": "Kware"
+        },
+        {
+          "id": 710,
+          "name": "Rabah"
+        },
+        {
+          "id": 711,
+          "name": "Sabon birni"
+        },
+        {
+          "id": 712,
+          "name": "Shagari"
+        },
+        {
+          "id": 713,
+          "name": "Silame"
+        },
+        {
+          "id": 714,
+          "name": "Sokoto North"
+        },
+        {
+          "id": 715,
+          "name": "Sokoto South"
+        },
+        {
+          "id": 716,
+          "name": "Tambuwal"
+        },
+        {
+          "id": 717,
+          "name": "Tqngaza"
+        },
+        {
+          "id": 718,
+          "name": "Tureta"
+        },
+        {
+          "id": 719,
+          "name": "Wamako"
+        },
+        {
+          "id": 720,
+          "name": "Wurno"
+        },
+        {
+          "id": 721,
+          "name": "Yabo"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Taraba",
+      "lga": [
+        {
+          "id": 722,
+          "name": "Ardo-kola"
+        },
+        {
+          "id": 723,
+          "name": "Bali"
+        },
+        {
+          "id": 726,
+          "name": "Cassol"
+        },
+        {
+          "id": 724,
+          "name": "Donga"
+        },
+        {
+          "id": 725,
+          "name": "Gashaka"
+        },
+        {
+          "id": 727,
+          "name": "Ibi"
+        },
+        {
+          "id": 728,
+          "name": "Jalingo"
+        },
+        {
+          "id": 729,
+          "name": "Karin-Lamido"
+        },
+        {
+          "id": 730,
+          "name": "Kurmi"
+        },
+        {
+          "id": 731,
+          "name": "Lau"
+        },
+        {
+          "id": 732,
+          "name": "Sardauna"
+        },
+        {
+          "id": 733,
+          "name": "Takum"
+        },
+        {
+          "id": 734,
+          "name": "Ussa"
+        },
+        {
+          "id": 735,
+          "name": "Wukari"
+        },
+        {
+          "id": 736,
+          "name": "Yorro"
+        },
+        {
+          "id": 737,
+          "name": "Zing"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Yobe",
+      "lga": [
+        {
+          "id": 738,
+          "name": "Bade"
+        },
+        {
+          "id": 739,
+          "name": "Bursari"
+        },
+        {
+          "id": 740,
+          "name": "Damaturu"
+        },
+        {
+          "id": 741,
+          "name": "Fika"
+        },
+        {
+          "id": 742,
+          "name": "Fune"
+        },
+        {
+          "id": 743,
+          "name": "Geidam"
+        },
+        {
+          "id": 744,
+          "name": "Gujba"
+        },
+        {
+          "id": 745,
+          "name": "Gulani"
+        },
+        {
+          "id": 746,
+          "name": "Jakusko"
+        },
+        {
+          "id": 747,
+          "name": "Karasuwa"
+        },
+        {
+          "id": 748,
+          "name": "Karawa"
+        },
+        {
+          "id": 749,
+          "name": "Machina"
+        },
+        {
+          "id": 750,
+          "name": "Nangere"
+        },
+        {
+          "id": 751,
+          "name": "Nguru Potiskum"
+        },
+        {
+          "id": 752,
+          "name": "Tarmua"
+        },
+        {
+          "id": 753,
+          "name": "Yunusari"
+        },
+        {
+          "id": 754,
+          "name": "Yusufari"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Zamfara",
+      "lga": [
+        {
+          "id": 755,
+          "name": "Anka"
+        },
+        {
+          "id": 756,
+          "name": "Bakura"
+        },
+        {
+          "id": 757,
+          "name": "Birnin Magaji"
+        },
+        {
+          "id": 758,
+          "name": "Bukkuyum"
+        },
+        {
+          "id": 759,
+          "name": "Bungudu"
+        },
+        {
+          "id": 760,
+          "name": "Gummi"
+        },
+        {
+          "id": 761,
+          "name": "Gusau"
+        },
+        {
+          "id": 762,
+          "name": "Kaura"
+        },
+        {
+          "id": 764,
+          "name": "Maradun"
+        },
+        {
+          "id": 765,
+          "name": "Maru"
+        },
+        {
+          "id": 763,
+          "name": "Namoda"
+        },
+        {
+          "id": 766,
+          "name": "Shinkafi"
+        },
+        {
+          "id": 767,
+          "name": "Talata Mafara"
+        },
+        {
+          "id": 768,
+          "name": "Tsafe"
+        },
+        {
+          "id": 769,
+          "name": "Zurmi"
+        }
+      ]
+    }
+  ]
+}
